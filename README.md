@@ -36,3 +36,11 @@ Wendy Ju
 wgj23@cornell.edu
 
 
+## Project Setups
+
+### Task Management
+Trello
+### Documentation
+MarkDown Tutorial: https://www.markdownguide.org/basic-syntax/
+### Tools
+Github Desktop: https://desktop.github.com/
