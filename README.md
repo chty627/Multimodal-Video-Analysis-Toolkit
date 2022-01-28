@@ -1,5 +1,4 @@
-# Multimodal Video Analysis Toolkit
- Team 7
+# Team 7 : Multimodal Video Analysis Toolkit
 
 **Team Member:**
 
@@ -10,12 +9,16 @@ Jeongmin Huh (jh2229)
 ## Project Statement:
 Build on some of our labs existing internal tools for labeling multimodal video datasets into a standalone cross platform tool.
 
+``` c++
 // more about frontend
 // deliverable: A visualization tool
 // question: how to use existing tools to visualize videos across different platform.
 // problems: 1. Synchronization between videos 2. 
+```
 
 ## Background reading:
+
+Pending
 
 
 ## Relevant Links:
