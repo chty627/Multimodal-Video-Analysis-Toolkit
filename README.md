@@ -16,6 +16,11 @@ Build on some of our labs existing internal tools for labeling multimodal video 
 // problems: 1. Synchronization between videos 2. 
 ```
 
+## Bi-Weekly Reports
+
+[Feb 11 Bi-Weekly Report](https://docs.google.com/document/d/1VGOgC08jyoeijQCYdGGpamJmH5taagABK7hHciWvHq8)
+
+
 ## Background reading:
 
 Pending
