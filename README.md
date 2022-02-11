@@ -51,17 +51,18 @@ wgj23@cornell.edu
 **TODOs:**
 
 - go through the svelte tutorial (https://svelte.dev/tutorial/basics) 
-This should not take more than an hour or two max. If you're having trouble with any of the modules, mark them down and move on to the next one. We can look at them together when we meet. I would ask that you really try to understand what each one is trying to teach you. Taking notes is helpful.
 
-- We need to decide what cross platform framework we are going to use. In the interest of getting things up and running this seems like our best bet for integrating svelte and electron https://github.com/ptkdev-boilerplate/svelte-electron-boilerplate why don't you each try getting this running on your machine. We can go over any issues you run into
+- We need to decide what cross platform framework we are going to use. In the interest of getting things up and running this seems like our best bet for integrating svelte and electron https://github.com/ptkdev-boilerplate/svelte-electron-boilerplate 
 
-- also take a look at the pages under the get started tab on the left (https://www.electronjs.org/docs/v14-x-y/) and the how to tab on the left (https://www.electronjs.org/docs/v14-x-y/tutorial/examples) take a note of anything that is confusing and let me know!
+- take a look at the pages under the get started tab on the left (https://www.electronjs.org/docs/v14-x-y/) and the how to tab on the left (https://www.electronjs.org/docs/v14-x-y/tutorial/examples) 
 
 
 ### Task Management
 Trello
+
 ### Documentation
 MarkDown Tutorial: https://www.markdownguide.org/basic-syntax/
+
 ### Tools
 Github Desktop: https://desktop.github.com/
 
